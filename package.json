@@ -1,0 +1,30 @@
+{
+  "name": "lexical-note-app",
+  "version": "1.0.0",
+  "description": "Note taking app using lexical-editor-easy with Next.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "lexical": "^0.12.2",
+    "lexical-editor-easy": "1.2.1",
+    "@lexical/react": "^0.12.2",
+    "next": "^14.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@heroicons/react": "^2.0.18",
+    "clsx": "^2.0.0",
+    "tailwind-merge": "^2.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "@tailwindcss/typography": "^0.5.10",
+    "eslint": "^8.54.0",
+    "eslint-config-next": "^14.0.3"
+  }
+}
