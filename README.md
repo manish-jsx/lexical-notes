@@ -17,10 +17,17 @@ Lexical Notes is a note-taking app made using `lexical-editor-easy`. It allows u
 - Responsive design
 
 ## Screenshots
-![Screenshot 1](https://raw.githubusercontent.com/manish-jsx/lexical-notes/refs/heads/main/Screenshot1.png)
-![Screenshot 2](https://raw.githubusercontent.com/manish-jsx/lexical-notes/refs/heads/main/Screenshot2.png)
-![Screenshot 3](https://raw.githubusercontent.com/manish-jsx/lexical-notes/refs/heads/main/Screenshot3.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manish-jsx/lexical-notes/refs/heads/main/Screenshot1.png" alt="Screenshot 1" width="300">
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manish-jsx/lexical-notes/refs/heads/main/Screenshot2.png" alt="Screenshot 2" width="150">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manish-jsx/lexical-notes/refs/heads/main/Screenshot3.png" alt="Screenshot 3" width="150">
+</p>
 ## Installation
 
 1. Clone the repository
