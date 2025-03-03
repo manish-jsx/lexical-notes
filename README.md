@@ -18,7 +18,7 @@ Lexical Notes is a note-taking app made using `lexical-editor-easy`. It allows u
 
 ## Screenshots
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manish-jsx/lexical-notes/refs/heads/main/Screenshot1.png" alt="Screenshot 1" width="300">
+  <img src="https://raw.githubusercontent.com/manish-jsx/lexical-notes/refs/heads/main/Screenshot1.png" alt="Screenshot 1" width="800">
   
   <img src="https://raw.githubusercontent.com/manish-jsx/lexical-notes/refs/heads/main/Screenshot2.png" alt="Screenshot 2" width="150">
   
